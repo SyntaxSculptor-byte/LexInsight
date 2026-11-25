@@ -487,35 +487,6 @@ This is expected. The FAISS index was built locally by the application itself, s
 
 ---
 
-## 🧑‍💻 Author
-
-<div align="center">
-
-**Auditee Chowdhury**
-
-*AI/ML · Generative AI · Data Science · Full Stack Development*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-
-</div>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License — Copyright (c) 2024 Auditee Chowdhury
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software to use, copy, modify, merge, publish, distribute, sublicense,
-and/or sell copies of the Software, subject to the above copyright notice
-appearing in all copies.
-```
-
----
 
 ## ⭐ Acknowledgements
 
