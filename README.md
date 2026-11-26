@@ -501,7 +501,4 @@ This is expected. The FAISS index was built locally by the application itself, s
 <div align="center">
 
 If this project helped you, please consider giving it a ⭐ — it helps others discover it.
-
-*Built with ❤️ and ⚖️ by Auditee Chowdhury*
-
 </div>
